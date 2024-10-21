@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 </a>
 <a href="https://ubuntu.com/" target="_blank" title="Ubuntu Official Website">
-  <img src="#" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" alt="Ubuntu">
 </a>
 <a href="https://www.mysql.com/" target="_blank" title="MySQL Official Website">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
