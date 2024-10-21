@@ -1,3 +1,5 @@
+<h2>👋 Welcome to my GitHub Profile!</h2>
+
 ## Technologies:
 
 <a href="https://www.java.com/" target="_blank" title="Java Official Website">
