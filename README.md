@@ -3,7 +3,7 @@
 <a href="https://www.java.com/" target="_blank" title="Java Official Website">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </a>
-<a href="https://www.oracle.com/java/technologies/java-ee-glance.html" target="_blank" title="JavaEE Official Website">
+<a href="#" target="_blank" title="JavaEE Official Website">
   <img src="https://img.shields.io/badge/JavaEE-007396?style=for-the-badge&logo=java&logoColor=white" alt="JavaEE">
 </a>
 <a href="https://nodejs.org/" target="_blank" title="Node.js Official Website">
@@ -12,7 +12,7 @@
 <a href="https://expressjs.com/" target="_blank" title="Express.js Official Website">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript Official Documentation">
+<a href="#" target="_blank" title="JavaScript Official Documentation">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </a>
 <a href="https://reactjs.org/" target="_blank" title="React Official Website">
@@ -24,14 +24,14 @@
 <a href="https://symfony.com/" target="_blank" title="Symfony Official Website">
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
 </a>
-<a href="https://www.iso.org/standard/74528.html" target="_blank" title="C Language Information">
+<a href="#" target="_blank" title="C Language Information">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </a>
-<a href="https://isocpp.org/" target="_blank" title="C++ Official Website">
+<a href="#" target="_blank" title="C++ Official Website">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 </a>
 <a href="https://ubuntu.com/" target="_blank" title="Ubuntu Official Website">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="#" alt="Ubuntu">
 </a>
 <a href="https://www.mysql.com/" target="_blank" title="MySQL Official Website">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
