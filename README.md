@@ -26,6 +26,9 @@
 <a href="https://reactjs.org/" target="_blank" title="React Official Website">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 </a>
+<a href="https://flutter.dev/" target="_blank" title="Flutter Official Website">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+</a>
 <a href="https://www.php.net/" target="_blank" title="PHP Official Website">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </a>
@@ -73,4 +76,3 @@
 ## Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merouane-bel-moubarik)
-
